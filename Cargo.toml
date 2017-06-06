@@ -1,0 +1,6 @@
+[package]
+name = "trust-test"
+version = "0.1.0"
+authors = ["Frank Afriat <frank.afriat@hpe.com>"]
+
+[dependencies]
