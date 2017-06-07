@@ -1,3 +1,9 @@
+| | |
+|----------|---------------------------------------------------------------------|
+| **TravisCI** 	| [![Build Status](https://travis-ci.org/fafriat/trust-test.svg?branch=master)](https://travis-ci.org/fafriat/trust-test)|
+| **AppVeyor**  | [![Build Status](https://ci.appveyor.com/api/projects/status/3blmu96fr1v5jjbt/branch/master?svg=true)](https://ci.appveyor.com/project/fafriat/trust-test/branch/master)|
+
+
 # How I build my rust project for 21 different targets in less than 15 minutes for linux, Mac and Windows...
 
 Write once, Run Everywhere... with native build
